@@ -4,7 +4,7 @@ import { useI18n, flags, LanguageCode } from "../lib/i18n";
 
 export function Scene1Hero() {
   const { t, language, setLanguage } = useI18n();
-  const whatsappUrl = `https://wa.me/351962494484?text=${encodeURIComponent(t.hero.wa)}`;
+  const whatsappUrl = `https://wa.me/351920110315?text=${encodeURIComponent(t.hero.wa)}`;
 
   return (
     <section className="relative min-h-[85svh] flex flex-col justify-center overflow-hidden bg-white pt-4 pb-6 sm:pt-14 sm:pb-12 lg:pt-20 lg:pb-24">
