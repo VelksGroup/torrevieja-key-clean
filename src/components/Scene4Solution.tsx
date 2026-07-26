@@ -5,7 +5,7 @@ import { useI18n } from "../lib/i18n";
 
 export function Scene4Solution() {
   const { t } = useI18n();
-  const whatsappUrl = `https://wa.me/351962494484?text=${encodeURIComponent(t.s4.wa)}`;
+  const whatsappUrl = `https://wa.me/351920110315?text=${encodeURIComponent(t.s4.wa)}`;
   const containerRef = useRef<HTMLElement>(null);
   const { scrollYProgress } = useScroll({
     target: containerRef,
