@@ -4,7 +4,7 @@ import { useI18n } from "../lib/i18n";
 
 export function FloatingWhatsApp() {
   const { t } = useI18n();
-  const whatsappUrl = `https://wa.me/351920110315text=${encodeURIComponent(t.gallery.wa)}`;
+  const whatsappUrl = `https://wa.me/351920110315?text=${encodeURIComponent(t.gallery.wa)}`;
 
   return (
     <motion.a
