@@ -32,7 +32,7 @@ export function Scene10Footer() {
               Contact
             </span>
             <a 
-              href="tel:+351962494484" 
+              href="tel:+351920110315" 
               className="group flex flex-row-reverse md:flex-row items-center gap-3.5 text-[18px] sm:text-[22px] font-bold text-slate-800 hover:text-brand-600 transition-colors tracking-tight"
             >
               <span className="relative flex items-center justify-center">
@@ -41,7 +41,7 @@ export function Scene10Footer() {
                   <Phone className="w-4 h-4 text-brand-600 group-hover:scale-110 group-hover:rotate-12 transition-transform duration-300 fill-brand-600/20" />
                 </span>
               </span>
-              +351 962 494 484
+              +351 920 110 315
             </a>
             <a 
               href="mailto:turnclean.support@gmail.com" 
